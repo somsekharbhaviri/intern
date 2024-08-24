@@ -1,0 +1,298 @@
+.x2 {
+  color: var(--accentcolor);
+}
+.myfastx2 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 61px;
+  white-space: nowrap;
+  color: inherit;
+}
+.myfastx-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.download-2-icon2 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  object-fit: cover;
+  min-height: 25px;
+}
+.partner2 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 38px;
+}
+.frame-parent9,
+.partner-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.partner-frame {
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+  font-size: var(--font-size-3xs);
+}
+.frame-parent9 {
+  flex-direction: row;
+}
+.frame-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.help-and-support2 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 106px;
+  white-space: nowrap;
+}
+.frame-parent10,
+.frame-parent8,
+.help-and-support-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.help-and-support-frame {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.frame-parent10,
+.frame-parent8 {
+  flex-direction: row;
+  gap: var(--gap-9xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+}
+.frame-parent8 {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--basedark);
+  font-family: var(--font-poppins);
+}
+.select-payment-method1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.all-payments-are2 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.payment-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.add-method {
+  margin: 0;
+  width: 42px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 300;
+  font-family: inherit;
+  display: inline-block;
+}
+.empty-payment {
+  width: 214px;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.add-new-payment1 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.empty-payment-parent {
+  width: 407px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-whitesmoke-100);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-22xl) var(--padding-xl) 72px var(--padding-2xl);
+  box-sizing: border-box;
+  min-width: 407px;
+  max-width: 100%;
+}
+.group-icon2 {
+  width: 485px;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+}
+.frame-parent11 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: 64px;
+  color: var(--color-gray-200);
+}
+.payment-header-parent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.frame-parent7,
+.payment-header-parent,
+.payment-page-child {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent7 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-26xl);
+}
+.payment-page-child {
+  width: 1144px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xs) 0 var(--padding-4xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--basedark);
+  font-family: var(--font-poppins);
+}
+.frame-item {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background: linear-gradient(90deg, #fff, #d9d9d9 43.5%, #fff);
+}
+.myfastx-technologies-pvt2 {
+  position: relative;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.myfastx-technologies-pvt-ltd-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.payment-page2,
+.rectangle-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.rectangle-group {
+  width: 1144px;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-poppins);
+}
+.payment-page2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-3xl-5) var(--padding-xl) var(--padding-4xl);
+  box-sizing: border-box;
+  gap: 377.3px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .payment-page2 {
+    gap: 189px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .add-method {
+    font-size: 51px;
+  }
+  .empty-payment-parent,
+  .group-icon2 {
+    flex: 1;
+  }
+  .frame-parent11 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .empty-payment-parent {
+    min-width: 100%;
+  }
+  .group-icon2{
+    display:none;
+  }
+  .payment-header-parent {
+    gap: var(--gap-mini);
+  }
+  .frame-parent7 {
+    gap: var(--gap-3xl);
+  }
+  .payment-page2 {
+    gap: 94px;
+  }
+  .rectangle-group {
+    position: fixed; /* Fixes the div to a specific position */
+    bottom: 0;       /* Positions the div at the bottom of the viewport */
+    left: 0;         /* Aligns the div to the left edge of the viewport */
+    width: 100%;     /* Makes the div span the full width of the viewport */
+    height: 100px;   /* Adjust the height as needed */
+    background-color: #f0f0f0; /* Background color for visibility */
+    z-index: 1000;   /* Ensures the div stays above other content */
+  }
+  
+}
+@media screen and (max-width: 450px) {
+  .select-payment-method1 {
+    font-size: var(--font-size-lgi);
+  }
+  .add-method {
+    font-size: 38px;
+  }
+  .payment-page2 {
+    gap: var(--gap-28xl);
+  }
+}
